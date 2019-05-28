@@ -1,0 +1,2 @@
+2010-12-15 18:45:31 Debug: Notice (1024): Please change the value of 'Security.salt' in app/config/core.php to a salt value specific to your application in [D:\Sites\Tuto\map\cake\libs\debugger.php, line 684]
+2010-12-15 18:45:31 Debug: Notice (1024): Please change the value of 'Security.cipherSeed' in app/config/core.php to a numeric (digits only) seed value specific to your application in [D:\Sites\Tuto\map\cake\libs\debugger.php, line 688]
